@@ -1,4 +1,4 @@
-### Hotel Bookings Exploratory Data Analysis
+### Hotel Bookings EDA
 ## Objective
 
 Our main objective is to uncover patterns and trends in hotel booking data and use this information to gain insights into the factors affecting hotel bookings. The primary focus is on identifying correlations between variables such as customer demographics, seasonality, pricing, and promotions, and the number of bookings. The analysis aims to provide actionable recommendations for hotel managers to optimize their pricing strategies, promotions, and inventory management, resulting in increased revenue and customer satisfaction. Furthermore, the analysis will aim to shed light on any underlying trends and patterns that can inform future decision-making and allow hotels to stay ahead of the competition. The ultimate goal of the project is to assist hotels in making informed decisions that will drive business growth and improve their bottom line.
